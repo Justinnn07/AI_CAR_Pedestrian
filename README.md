@@ -31,15 +31,6 @@ To get a local copy up and running follow these simple steps.
   - [ ] `pip3 install opencv-python` only if you get error related to `cv2`.
 - [ ] Run `python3 car_and_human_trackig.py` to run the application.
 
-## Authors
-
-👤 **Divyesh Patel**
-
-- GitHub: [@Div685](https://github.com/Div685)
-- Twitter: [@div_685](https://twitter.com/div_685)
-- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-daxa-patel/)
-
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
